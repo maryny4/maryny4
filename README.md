@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=Monolithic%20vs.%20Microservices" alt="readme Quotes">
-</p>
-
 ### IDEs
 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
