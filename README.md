@@ -1,4 +1,4 @@
-# 🚀 Andrii Maryny4 | DevOps Engineer & Infrastructure Wizard
+# 🚀 Oleksandr Maryny4 | DevOps Engineer & Infrastructure Wizard
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFBF&center=true&width=800&lines=DevOps+Engineer+%7C+Backend+Developer+%7C+Open+Source+Enthusiast;Transforming+Infrastructures+with+Code+%F0%9F%9A%A2" alt="Professional Intro" />
