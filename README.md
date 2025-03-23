@@ -1,14 +1,16 @@
-# 🚀 Oleksandr Maryny4 | DevOps Engineer | Infrastructure Wizard
+# Oleksandr Marynych | DevOps Engineer & Backend Developer
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFBF&center=true&width=800&lines=DevOps+Engineer+%7C+Backend+Developer+%7C+Open+Source+Enthusiast;Transforming+Infrastructures+with+Code+%F0%9F%9A%A2" alt="Professional Intro" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Automation-blue?style=flat-square" alt="Focus: DevOps & Automation" />
-  <img src="https://img.shields.io/badge/Location-Poland-red?style=flat-square" alt="Location: Poland" />
-  <img src="https://img.shields.io/badge/Available-Freelance-green?style=flat-square" alt="Status: Freelance Available" />
+  <a href="https://maryny4.com"><img src="https://img.shields.io/badge/Website-maryny4.com-3B82F6?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <img src="https://img.shields.io/badge/Focus-Infrastructure%20%26%20DevOps-60A5FA?style=flat-square" alt="Focus: Infrastructure & DevOps" />
+  <img src="https://img.shields.io/badge/Available-Freelance%20%26%20Projects-4ADE80?style=flat-square" alt="Status: Available for Work" />
 </div>
+
+<br>
 
 <div align="center">
   <picture>
@@ -18,186 +20,153 @@
   </picture>
 </div>
 
----
-
 ## 👋 About Me
 
-I'm a passionate **DevOps Engineer** and **Backend Developer** originally from Ukraine, now thriving in Poland. I specialize in infrastructure automation, Kubernetes orchestration, and system optimization—turning complex challenges into streamlined solutions.
+I'm a **DevOps Engineer** and **Backend Developer** specializing in infrastructure management, automation, and system optimization. I create robust, efficient solutions with a focus on reliability and performance.
 
-- 🌐 [Personal Website](https://maryny4.com)
-- 📍 Based in Poland 🇵🇱
+- 🔧 **Infrastructure specialist** with expertise in Linux, Docker, and Kubernetes
+- 💻 **Backend developer** using Python and modern frameworks
+- 🚀 **Automation enthusiast** implementing efficient CI/CD pipelines
+- 🌐 **Website creator** building custom sites for clients
 
-### 🎯 Core Focus Areas
+<details>
+<summary><b>🎯 Core Skills & Expertise</b></summary>
+<br>
 
-- 🏗️ **Infrastructure Automation**
-  - IaC implementation with Terraform
-  - Cloud infrastructure optimization
-  - Automated deployment pipelines
-
-- 🐋 **Container Orchestration**
-  - Kubernetes cluster management
-  - Docker containerization
-  - Microservices architecture
-
-- 🔄 **DevOps Practices**
-  - CI/CD pipeline development
-  - GitOps workflow implementation
-  - Automation-first approach
-
-- 🖥️ **Systems Administration**
-  - Linux/Windows server management
-  - Performance optimization
-  - Security hardening
-
-- ⚡ **Backend Development**
-  - Python (FastAPI, Django)
-  - RESTful API design
-  - Database optimization
-
-### 💡 Professional Philosophy
-
-- Unix philosophy advocate
-- Continuous learning enthusiast
-- Open-source contributor
-- Automation-first mindset
-- Problem solver & efficiency seeker
-
----
+| Area | Expertise |
+|------|-----------|
+| **🏗️ Infrastructure** | Kubernetes, Docker, Linux, Windows Server, IIS |
+| **🔄 DevOps Practices** | CI/CD Pipelines, Infrastructure as Code, Monitoring |
+| **🛠️ Backend Development** | Python, API Development, Database Integration |
+| **💾 Game Development** | Unity, C#, Backend Services Integration |
+| **🔍 Automation** | Workflow Optimization, Resource Management, Cost Reduction |
+</details>
 
 ## 🛠️ Technology Stack
 
-### 💻 Core Technologies
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,bash,cs,fastapi,django,kubernetes,docker,terraform,githubactions" alt="Core Technologies" /></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="48" alt="ArgoCD" /></a>
-</p>
-
-### 🗄️ Databases & Storage
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" alt="Databases" /></a>
-</p>
-
-### 💼 Development Expertise
-
-#### Infrastructure & DevOps
-- **Container Platform**: Kubernetes, Docker, containerd
-- **CI/CD**: GitHub Actions, ArgoCD, Jenkins
-- **IaC**: Terraform, CloudFormation
-- **Monitoring**: Prometheus, Grafana, ELK Stack
-- **Version Control**: Git, GitHub, GitLab
-
-#### Development
-- **Backend**: Python (FastAPI, Django), RESTful APIs
-- **Scripting**: Bash, PowerShell
-- **Game Development**: Unity, C#
-- **Documentation**: Markdown, LaTeX
-
----
-
-## 🎓 Professional Experience
-
-### 🚀 Freelance Backend Developer
-*2024 - Present*
-
-Leading complex infrastructure and development projects:
-- Architecting microservice solutions with FastAPI and Django
-- Managing multi-node Kubernetes clusters
-- Implementing GitOps practices with ArgoCD
-- Developing automated CI/CD pipelines
-- Optimizing application performance
-
-### 🎮 Junior Unity Developer at BP - "Game Forge"
-*December 2023 - May 2024*
-
-Game development and infrastructure management:
-- Unity game development with C#
-- Backend services implementation
-- Performance optimization
-- Mobile gaming enhancements
-- Infrastructure maintenance
-
----
-
-## 🌍 Languages
-
 <div align="center">
-  <img src="assets/ua.png" alt="Ukrainian - Native" height="40" style="background-color: white;" />
-  <img src="assets/pl.png" alt="Polish - B1-B2" height="40" style="background-color: white;" />
-  <img src="assets/us.png" alt="English - Technical" height="40" style="background-color: white;" />
+  <h3>Core Technologies</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </p>
+
+  <h3>Development</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-API_Development-3B82F6?style=for-the-badge" alt="API Development" />
+    <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+    <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/-Infrastructure_as_Code-60A5FA?style=for-the-badge" alt="Infrastructure as Code" />
+  </p>
 </div>
 
----
+## 👨‍💻 Professional Experience
+
+### DevOps Engineer & Linux Administrator
+**Atomic Bull Studio** | Sep 2024 - Present
+- Managing infrastructure for game development projects
+- Implementing CI/CD pipelines and deployment strategies
+- Administering Linux servers and Kubernetes clusters
+- Ensuring high availability and performance optimization
+
+### Freelance Developer
+**Self-employed** | Jan 2024 - Sep 2024
+- Developing custom backend solutions and infrastructure setups
+- Creating websites with modern technologies
+- Implementing automation workflows for clients
+- Optimizing performance and resource utilization
+
+### Junior Unity Developer
+**BP - 'Game Forge'** | Dec 2023 - May 2024
+- Developed game mechanics and features for mobile games
+- Integrated backend services and configured SDK connections
+- Created optimized code for mobile platforms
+- Coordinated with team members on game development
 
 ## 🚀 Featured Projects
 
-### 🔹 Home Lab Infrastructure
-- Production-grade home server setup
-- Kubernetes cluster on repurposed hardware
-- Full service containerization
-- Custom systemd optimizations
-- Network security implementation
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>B2B Infrastructure Project</h3>
+        <p>Secure, scalable Windows Server-based infrastructure for sensitive client data.</p>
+        <img src="https://img.shields.io/badge/-Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Security-FF0000?style=flat-square" />
+        <img src="https://img.shields.io/badge/-IIS-5E5E5E?style=flat-square" />
+      </td>
+      <td width="50%" align="center">
+        <h3>Game Backend Integration</h3>
+        <p>Robust backend services for Unity-based mobile games with analytics.</p>
+        <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Backend-3B82F6?style=flat-square" />
+        <img src="https://img.shields.io/badge/-API-60A5FA?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>Pyrogram Multi-Client Manager</h3>
+        <p>Efficient Python library for managing multiple Telegram client sessions.</p>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Async-6366F1?style=flat-square" />
+        <img src="https://img.shields.io/badge/-API_Integration-60A5FA?style=flat-square" />
+      </td>
+      <td width="50%" align="center">
+        <h3>Personal Infrastructure</h3>
+        <p>Cost-effective self-hosted infrastructure using Proxmox with high reliability.</p>
+        <img src="https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🔹 Enterprise Server Solutions
-- Windows & Linux server administration
-- High availability configurations
-- Performance optimization
-- Security hardening
-- IIS deployment and management
+## 🔧 Skills & Expertise
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryny4&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+### DevOps & Infrastructure
+- **Linux**: Administration, Optimization, Security
+- **Docker**: Containerization, Docker Compose, Multi-stage builds
+- **Kubernetes**: Cluster Management, Deployments, Services
+- **Infrastructure**: Proxmox, Windows Server, IIS
+- **Monitoring**: Performance Analysis, Resource Optimization
+
+### Development
+- **Python**: Scripting, API Development, Automation
+- **Backend**: RESTful APIs, SDK Integration, Webhooks
+- **Unity**: C#, Game Development, Backend Integration
+- **Automation**: CI/CD Pipelines, Workflow Optimization
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/maryny4" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryny4" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/maryny.4" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maryny4" height="30" width="40" />
-  </a>
-  <a href="https://t.me/maryny4" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="maryny4" height="30" width="40" />
-  </a>
-  <a href="https://dev.to/maryny4" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="maryny4" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
+  <a href="https://maryny4.com" target="_blank"><img src="https://img.shields.io/badge/Website-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/maryny4" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/maryny4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dev@maryny4.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
-### ☕ Support My Work
-
-<p>
-  <a href="https://www.buymeacoffee.com/maryny4">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maryny4" />
-  </a>
-</p>
-
-<br><br>
-
----
-
-## 📊 GitHub Stats
+<br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maryny4&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="GitHub Trophies" />
-  
-  <br /><br />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=maryny4&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maryny4&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
-  
-  <br /><br />
-  
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=maryny4&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maryny4&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=3B82F6&ring=60A5FA&fire=60A5FA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=3B82F6&dates=8B9CB6" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=maryny4&label=Profile%20views&color=3B82F6&style=flat" alt="Profile Views" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=maryny4&label=Profile%20views&color=0e75b6&style=flat" alt="maryny4" />
-  <br /><br />
-  <em>Transforming coffee into code, one commit at a time ☕🖥️</em>
+  <em>Creating reliable, efficient infrastructure solutions. Let's collaborate!</em><br>
+  <a href="https://www.buymeacoffee.com/maryny4"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
 </div>
