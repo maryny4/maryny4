@@ -28,17 +28,3 @@ jobs:
           plugin_notable_repositories: yes
           plugin_notable_indepth: yes
           plugin_notable_types: commit, pull_request
-
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN || github.token }}
-          filename: github-notable-terminal.svg
-          committer_branch: output
-          base: ""
-          template: terminal
-          config_padding: "0, 0"
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_repositories: yes
-          plugin_notable_indepth: yes
-          plugin_notable_types: commit, pull_request
