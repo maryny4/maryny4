@@ -22,6 +22,7 @@ jobs:
           filename: github-notable.svg
           committer_branch: output
           base: ""
+          config_padding: "0, 0"
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_repositories: yes
